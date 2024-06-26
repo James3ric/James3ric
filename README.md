@@ -33,5 +33,4 @@ MSc in Artificial Intelligence and Data Science at the University of Hull, with 
 ![Keras](https://img.shields.io/badge/-keras-D00000?style=flat-square&logo=keras)
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%F37626?style=flat-square&logo=Jupyter)
-![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
