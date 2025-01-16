@@ -13,7 +13,7 @@ MSc in Artificial Intelligence and Data Science at the University of Hull, with 
 
 
 <p>
-    <a href="https://oluwayetty.com/">
+    <a href="">
       <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=james3ric&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
 </p>
